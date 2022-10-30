@@ -7,7 +7,7 @@
 *.dpi: 176
 ! prob not necessary *.vt100.faceSize: 12
 *.faceSize:12
-*.renfderFont: true
+*.renderFont: true
 *.faceName: VeraMono
 
 
